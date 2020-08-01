@@ -1,3 +1,11 @@
+
+
+GitHub Action to build up the App when you push
+
+## Ben Note
+- learning from: [GitHub Actions 入门教程 - 阮一峰的网络日志](http://www.ruanyifeng.com/blog/2019/09/getting-started-with-github-actions.html)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
